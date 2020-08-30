@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My name is Guilherme Dias, I am a MSc student in Computer Science at Federal University of ABC and game developer.
+
+💬 More about me (PT-BR only): https://diasgui.github.io/
+
+📫 Contact: g.dias@ufabc.edu.br or guilhermedbelarmino@gmail.com
 <!--
 **diasgui/diasgui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +18,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
