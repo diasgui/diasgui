@@ -2,7 +2,9 @@
 
 My name is Guilherme Dias, I am a MSc student in Computer Science at Federal University of ABC and game developer.
 
-💬 More about me (PT-BR only): https://diasgui.github.io/
+💬 More about me 
+- (PT-BR): https://diasgui.github.io/
+ - (EN): will be available soon
 
 📫 Contact: g.dias@ufabc.edu.br or guilhermedbelarmino@gmail.com
 <!--
