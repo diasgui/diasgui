@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Guilherme Dias, I am a MSc student in Computer Science at Federal University of ABC and game developer.
+My name is Guilherme Dias, I am a MSc student of Computer Science at Federal University of ABC and game developer.
 
 💬 More about me 
 - (PT-BR): https://diasgui.github.io/
